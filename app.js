@@ -1,2 +1,2 @@
 // app.js
-import 'main.scss';
+import './src/main.scss';
